@@ -30,7 +30,7 @@ on:
       COMMON_PATH:
         description: 'COMMON_PATH'
         required: true
-        default: 'android-12.1'
+        default: 'android_12.1'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
